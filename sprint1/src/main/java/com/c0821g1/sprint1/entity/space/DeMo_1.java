@@ -8,6 +8,10 @@ public class DeMo_1 {
         System.out.println("demo test");
 
         System.out.println("demo hai");
+        abc();
 
+    }
+    public static void abc(){
+        System.out.println("abc");
     }
 }
