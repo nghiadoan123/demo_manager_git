@@ -5,6 +5,8 @@ public class DeMo_1 {
 
         System.out.println("demo motnnnnnnnnn");
 
+        System.out.println("demo test");
+
         System.out.println("demo hai");
 
     }
