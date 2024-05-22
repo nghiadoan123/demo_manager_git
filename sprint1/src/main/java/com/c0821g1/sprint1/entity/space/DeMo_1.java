@@ -11,6 +11,9 @@ public class DeMo_1 {
         abc();
 
     }
+    public static void abcf7(){
+        System.out.println("abcbbbbbbbggggggggg");
+    }
     public static void abcf61(){
         System.out.println("abcbbbbbbbggggggggg");
     }
