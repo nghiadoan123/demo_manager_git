@@ -12,7 +12,7 @@ public class DeMo_1 {
 
     }
     public static void abc(){
-        System.out.println("abcbbbbbbb");
+        System.out.println("abcbbbbbbbggggggggg");
     }
     private String name;
     
